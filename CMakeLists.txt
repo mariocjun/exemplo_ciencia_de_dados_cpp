@@ -4,7 +4,7 @@ project(cpm_example)
 
 #-DCPM_SOURCE_CACHE:PATH=$CMakeProjectDir$/.cache
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 11)
 
 ############################################################################################################
 set(CPM_DOWNLOAD_VERSION 0.27.2)
