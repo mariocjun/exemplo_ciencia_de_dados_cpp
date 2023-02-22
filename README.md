@@ -1,4 +1,4 @@
-# Tutorial de uso do programa de interpolação de dados com C++, Gnuplot, GSL e CPM
+# Tutorial de uso do programa que faz interpolação de dados com C++, Gnuplot, GSL e CPM
 ## Referências: https://opensource.com/article/20/2/c-data-science
 ## Referências: https://medium.com/swlh/cpm-an-awesome-dependency-manager-for-c-with-cmake-3c53f4376766
 ### Plataforma: Windows 11 (64 bits)
