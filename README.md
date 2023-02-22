@@ -37,3 +37,5 @@
 * Interpola os dados com uma linha reta (ou seja, f(x)=m ⋅ x + q), criando um arquivo CSV com os dados interpolados chamado fit_Cpp11.csv.
 * Plota o resultado num arquivo de imagem chamado fit_Cpp11.png utilizando o script plot.ps1, que chama o gnuplot para gerar o gráfico a partir do arquivo plotting_Cpp11.gnuplot. Este último é um script do gnuplot que contém os comandos para gerar o gráfico a partir dos dados do arquivo fit_Cpp11.csv. O script deve ser executado no terminal do Windows, no diretório onde se encontra o arquivo plottin_Cpp11.gnuplot. O comando para executar o script é o seguinte: .\plot.ps1
 
+## Resultado do programa deve ser o seguinte:
+![expected_result.png](expected_result.png)
